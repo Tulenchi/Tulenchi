@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Exploring different areas of software development: Frontend, Backend, Data, Computer Vision  
+- 🌱 Exploring different areas of software development: Frontend, Backend, Data, etc  
 - 💻 I enjoy building web apps, working with data, and experimenting with algorithms
 - 📂 Building portfolio projects to grow my skills and experience
 - 🧩 Background in C++, Python, and C#, plus practical web development experience  
