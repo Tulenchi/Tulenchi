@@ -101,7 +101,7 @@ Other:
   <a href="https://instagram.com/0romanova_olya0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   
-  <img width="10" />
+  <!--<img width="10" />-->
   <a href="mailto:romanov.yulai@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
