@@ -86,10 +86,10 @@ Other:
 
 ## 🌍 Connect with me
 <p align="center">
-   - Mail: romanov.yulai@gmail.com
-  
+  Mail: romanov.yulai@gmail.com<br>
+  <br>
   <a href="https://t.me/tulenchi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <!--<img width="10" />
   <a href="https://www.linkedin.com/in/olya-romanova-99664b386" target="_blank">
